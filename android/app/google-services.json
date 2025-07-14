@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632471526230",
+    "project_id": "community-assistance-b9e1e",
+    "storage_bucket": "community-assistance-b9e1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632471526230:android:56fb39cd170cef375fd4f7",
+        "android_client_info": {
+          "package_name": "com.masti.community_assistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZ7KpnxKFQgPs7gMbrnkF-cl3HCHvUVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
